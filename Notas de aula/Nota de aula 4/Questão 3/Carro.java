@@ -27,8 +27,6 @@ public class Carro {
 
     public void mostrarDetalhes() {
 
-        System.out.println("Informações sobre o carro: ");
-        System.out.println();
         System.out.println("Marca: " + getMarca() + " Modelo: " + getModelo());
 
     }
